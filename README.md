@@ -40,4 +40,4 @@ Then open `quiz1/index.html` with a local server such as VS Code Live Server.
 
 ### Live Demo
 
-<!-- Add the deployed URL here -->
+Deployed on Vercel: **[ef234301webpro-d-q15025251178fazli.vercel.app/quiz1](https://ef234301webpro-d-q15025251178fazli.vercel.app/quiz1/)**
