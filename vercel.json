@@ -1,0 +1,6 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    { "source": "/", "destination": "/quiz1/", "permanent": false }
+  ]
+}
